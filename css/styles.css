@@ -559,7 +559,7 @@ margin-bottom: 15px;
   background-size: cover;
   padding: 100px 0;
   color: #fff;
-  background: url('../images/img3.jpg');
+  background: url('../images/img3.jpeg');
   background-size: cover;
 }
 #testimonial h2{
@@ -849,6 +849,7 @@ color: #FFFFFF;
  background: #A4D8C6;
  padding: 50px;
  margin-bottom: 50px;
+ margin-top: 100px;
 }
 .contact-info address {
 margin-bottom: 20px;
